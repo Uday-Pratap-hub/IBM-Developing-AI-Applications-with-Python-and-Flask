@@ -1,4 +1,4 @@
-# Welcome to Week 3 Solutions.. 😇 ✅ 👇
+# Welcome to Week 3 Solutions.. 😇 ✅ 👇 👇 👇 👍
 ## Step BY Step process for completion of Assignment :- 👇
 
 # `Task 1` : Clone the project repository 👇
@@ -69,5 +69,7 @@
 # SO NOW AFTER DOING ALL THIS SUBMIT YOUR ASSIGNMENT. ✅ 😇 😎
 # NOW IS THE TIME TO DO SOME PEER-REVIEWING FOR COURSE COMPLETION [ WATCH THE BELOW VIDEO ] 👇 ✅
 https://github.com/Uday-Pratap-hub/IBM-Developing-AI-Applications-with-Python-and-Flask/assets/67860426/b2a2ff51-0a80-484f-b3ed-8de2f9f07258
+
+*** Sample location for the pics :- https://drive.google.com/drive/folders/1QOfFLJBJExEmfs6wgEtvAtCr-_io8RSu
 
 # So now After doing this YOUR COURSE is completed. So go and collect your Certificates NOW.. ✅ 😎 😇 💯
